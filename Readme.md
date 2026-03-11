@@ -325,7 +325,7 @@ https://github.com/prashant1106
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the **MIT License**.
 
